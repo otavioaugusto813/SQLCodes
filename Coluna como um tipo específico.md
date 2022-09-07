@@ -1,0 +1,3 @@
+```SQL
+CAST(COLUNA AS DECIMAL(8,2))
+```

@@ -1,0 +1,4 @@
+# Subtração básica (MySQL)
+
+```sql
+SELECT COUNT(CITY) - COUNT(DISTINCT(CITY)) FROM STATION
